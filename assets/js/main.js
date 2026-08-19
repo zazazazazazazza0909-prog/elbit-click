@@ -2,7 +2,7 @@
   "use strict";
 
   // Discord raw .zip indirme bağlantınızı buraya yapıştırın.
-  var DOWNLOAD_URL = "https://discord.com/your-raw-download-link-here";
+  var DOWNLOAD_URL = "https://cdn.discordapp.com/attachments/1537101367649247353/1539441231686410321/Elbit_2.0.zip?ex=6a8653df&is=6a85025f&hm=096a6270f350a9cb458bcbaabb90e170a617a15fd632c567e7243c6094104efe";
 
   var bgParallax = document.getElementById("bgParallax");
   var glowOuter = document.getElementById("glowOuter");
