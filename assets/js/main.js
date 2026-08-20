@@ -2,7 +2,7 @@
   "use strict";
 
   // Discord raw .zip indirme bağlantınızı buraya yapıştırın.
-  var DOWNLOAD_URL = "https://cdn.discordapp.com/attachments/1537101367649247353/1539441231686410321/Elbit_2.0.zip?ex=6a8653df&is=6a85025f&hm=096a6270f350a9cb458bcbaabb90e170a617a15fd632c567e7243c6094104efe";
+  var DOWNLOAD_URL = "https://cdn.discordapp.com/attachments/1535427832350769212/1540055942253781032/Elbit_Surum_3.0.zip?ex=6a88905d&is=6a873edd&hm=1e972182afc603fc819a41e9c887c87f9eaa1a12ef4d2258935f4b9386c23f10&";
 
   var bgParallax = document.getElementById("bgParallax");
   var glowOuter = document.getElementById("glowOuter");
